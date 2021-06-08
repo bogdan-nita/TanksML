@@ -1,5 +1,9 @@
 {
+<<<<<<< Updated upstream
     "name": "TanksInputActions",
+=======
+    "name": "InputActions_TanksML",
+>>>>>>> Stashed changes
     "maps": [
         {
             "name": "Gameplay",
@@ -36,6 +40,7 @@
                     "expectedControlType": "Button",
                     "processors": "",
                     "interactions": "Press(behavior=2)"
+<<<<<<< Updated upstream
                 },
                 {
                     "name": "Pause",
@@ -44,6 +49,8 @@
                     "expectedControlType": "Button",
                     "processors": "",
                     "interactions": "Press(behavior=2)"
+=======
+>>>>>>> Stashed changes
                 }
             ],
             "bindings": [
@@ -137,6 +144,7 @@
                 },
                 {
                     "name": "",
+<<<<<<< Updated upstream
                     "id": "9ae0a295-2a9f-4cd2-beff-51df6d4ddf73",
                     "path": "<Keyboard>/escape",
                     "interactions": "",
@@ -159,6 +167,8 @@
                 },
                 {
                     "name": "",
+=======
+>>>>>>> Stashed changes
                     "id": "cd791b6e-e931-4457-95c5-01a4ad13ef0f",
                     "path": "<Keyboard>/w",
                     "interactions": "",

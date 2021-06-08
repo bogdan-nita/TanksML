@@ -1,5 +1,19 @@
 {
   "dependencies": {
+    "com.dbrizov.naughtyattributes": {
+      "version": "2.1.0",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {},
+      "url": "https://package.openupm.com"
+    },
+    "com.neuecc.unirx": {
+      "version": "7.1.0",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {},
+      "url": "https://package.openupm.com"
+    },
     "com.unity.barracuda": {
       "version": "2.0.0-pre.3",
       "depth": 1,
@@ -69,14 +83,14 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.ml-agents.extensions": {
-      "version": "git+https://github.com/Unity-Technologies/ml-agents.git?path=com.unity.ml-agents.extensions",
+      "version": "git+https://github.com/Unity-Technologies/ml-agents.git?path=com.unity.ml-agents.extensions#release_17",
       "depth": 0,
       "source": "git",
       "dependencies": {
         "com.unity.ml-agents": "2.0.0-exp.1",
         "com.unity.modules.physics": "1.0.0"
       },
-      "hash": "f2b3515aad2f0ae5a71ae00e061afef62c4898ae"
+      "hash": "1c405c8a23f0274bdb4b7e50a49b882575f06454"
     },
     "com.unity.nuget.newtonsoft-json": {
       "version": "2.0.0",

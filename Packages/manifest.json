@@ -1,10 +1,12 @@
 {
   "dependencies": {
+    "com.dbrizov.naughtyattributes": "2.1.0",
+    "com.neuecc.unirx": "7.1.0",
     "com.unity.collab-proxy": "1.5.7",
     "com.unity.ide.vscode": "1.2.3",
     "com.unity.inputsystem": "1.1.0-preview.3",
     "com.unity.ml-agents": "2.0.0-pre.3",
-    "com.unity.ml-agents.extensions": "git+https://github.com/Unity-Technologies/ml-agents.git?path=com.unity.ml-agents.extensions",
+    "com.unity.ml-agents.extensions": "git+https://github.com/Unity-Technologies/ml-agents.git?path=com.unity.ml-agents.extensions#release_17",
     "com.unity.postprocessing": "3.1.1",
     "com.unity.test-framework": "1.1.26",
     "com.unity.textmeshpro": "3.0.6",
@@ -41,5 +43,16 @@
     "com.unity.modules.vr": "1.0.0",
     "com.unity.modules.wind": "1.0.0",
     "com.unity.modules.xr": "1.0.0"
-  }
+  },
+  "scopedRegistries": [
+    {
+      "name": "package.openupm.com",
+      "url": "https://package.openupm.com",
+      "scopes": [
+        "com.dbrizov.naughtyattributes",
+        "com.neuecc.unirx",
+        "com.openupm"
+      ]
+    }
+  ]
 }
